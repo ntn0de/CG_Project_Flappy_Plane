@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1486959267 source:b:\c++\project\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+
+1486978150 source:c:\users\ntn0d\downloads\project\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<dos.h>
+
+1487056148 source:c:\users\ntn0d\desktop\project-final\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<dos.h>
+
+1487067778 source:e:\filessss\cg project-final\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<dos.h>
+
